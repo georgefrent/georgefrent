@@ -1,5 +1,7 @@
 Hello there :)
 
-I'm George, a 3rd year electronics and telecommunications student, eager to learn computer science.
+I am currently a third-year student at the University of Electronics, Telecommunications 
+and Information Technologies, passionate about Computer Science and dedicated to 
+deepen my programming knowledge.
 
 Thanks for stopping by!
